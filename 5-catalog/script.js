@@ -62,4 +62,4 @@ resetBtn.addEventListener("click", () => {
   render();
 });
 
-render();git add 5-catalog/script.js
+render();
